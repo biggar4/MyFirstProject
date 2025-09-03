@@ -1,14 +1,21 @@
-//
-//  main.cpp
-//  MyFirstProject
-//
-//  Created by Ethan Biggar on 9/2/25.
-//
+/*
+ Ethan Biggar
+ C++
+ 09/09/2025
+ Lab 1 and MyFirstProject
+ }
+ }
+ Basic demonstration of a c++ project
+ */
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main()
+{
+    std::cout << "Hello World";
+    
+    std::cout << " orange";
+    
     return 0;
 }
+
